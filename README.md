@@ -17,9 +17,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
-
-Conor F.
+👤 **Conor F.**
 
 - GitHub: [@githubhandle](https://github.com/Amtresu)
 
